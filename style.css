@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+form input, form select {
+    margin: 5px 0;
+    padding: 6px;
+    width: 250px;
+    display: block;
+}
+
+button, input[type="submit"] {
+    padding: 8px 14px;
+    margin-top: 10px;
+}
